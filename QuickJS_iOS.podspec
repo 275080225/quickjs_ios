@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "QuickJS_iOS"
-  spec.version      = "0.0.8"
+  spec.version      = "0.0.7"
   spec.summary      = "QuickJS iOS Bridge"
   spec.description  = <<-DESC
   QuickJS iOS Bridge, you can invoke objc api in javascript, and invoke javascript api in objc.
